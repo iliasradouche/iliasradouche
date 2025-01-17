@@ -10,7 +10,7 @@
 <div align="center">
   <p>🔭 Currently working on <strong>E-Commerce Project</strong></p>
   <p>👨‍💻 Check my portfolio at <a href="https://iliasradouche.netlify.app/" target="_blank">iliasradouche.netlify.app</a></p>
-  <p>💬 Ask me about <strong>HTML, CSS, JS, ReactJS, NextJS, MongoDB</strong></p>
+  <p>💬 Ask me about <strong>HTML, CSS, JS, ReactJS, NextJS, MongoDB, Python, Angular</strong></p>
   <p>📫 Reach me at <strong>iliasradouche2@gmail.com</strong></p>
 </div>
 
