@@ -1,62 +1,120 @@
+<!-- HEADER SECTION -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=180&section=header&text=Ilias%20RADOUCHE&fontSize=42&fontAlignY=36&animation=fadeIn&desc=Crafting%20Digital%20Experiences&descAlignY=55" width="100%" alt="Profile Header"/>
 
-# Hi 👋, I'm Ilias RADOUCHE
-### Full Stack Developer From Morocco 🇲🇦
+  <a href="https://iliasradouche.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/ilias-radouche" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:iliasradouche2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;React+%2B+Next.js+Developer;MERN+Stack+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
-</p>
+<!-- ABOUT ME ANIMATED SECTION -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="absmiddle">
+    About Me
+  </h2>
+</div>
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <h3>About Me</h3>
-      <p>🔭 Currently crafting an <strong>E-Commerce Project</strong></p>
-      <p>👨‍💻 Explore my work at <a href="https://iliasradouche.netlify.app/" target="_blank">iliasradouche.netlify.app</a></p>
-      <p>📫 Connect via <strong>iliasradouche2@gmail.com</strong></p>
-      <p>💬 Let's talk about <strong>React, Next.js, MERN & UI/UX</strong></p>
-      <p>
-        <a href="https://linkedin.com/in/ilias-radouche" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilias-radouche" height="30" width="40" />
-        </a>
-      </p>
+    <td width="55%">
+      <ul>
+        <li>🌟 Full Stack Developer from Morocco</li>
+        <li>🚀 Currently building an E-Commerce solution</li>
+        <li>💡 Passionate about clean code & intuitive UX</li>
+        <li>🌐 MERN stack & Next.js specialist</li>
+        <li>☁️ Cloud technologies enthusiast (AWS & GCP)</li>
+      </ul>
+      <div align="center">
+        <p><i>💬 "Building tomorrow's digital solutions today"</i></p>
+      </div>
     </td>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iliasradouche&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Ilias Radouche - Full Stack Developer" />
-      <br /><br />
+    <td width="45%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasradouche&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117" width="100%" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
-<div align="center" style="margin-top: 30px;">
-  <h3>My Tech Universe</h3>
-  <table>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/><br />JavaScript</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/><br />TypeScript</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/><br />React</td>
-      <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/><br />Next.js</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/><br />Node.js</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/><br />Express</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/><br />MongoDB</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/><br />Python</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/><br />HTML5</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/><br />CSS3</td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/><br />Figma</td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/><br />Firebase</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/><br />GCP</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/><br />AWS</td>
-      <td align="center" colspan="4"></td>
-    </tr>
-  </table>
+<!-- TECH STACK SECTION -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" align="absmiddle"> 
+    Tech Stack
+  </h2>
 </div>
 
----
+<div align="center">
+  <!-- FRONTEND -->
+  <details open>
+    <summary><b>Frontend</b></summary>
+    <br/>
+    <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  </details>
 
-<p align="center">✨ Thanks for exploring my digital space! Let's build something amazing together! ✨</p>
+  <!-- BACKEND -->
+  <details open>
+    <summary><b>Backend</b></summary>
+    <br/>
+    <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  </details>
 
+  <!-- CLOUD & TOOLS -->
+  <details open>
+    <summary><b>Cloud & Tools</b></summary>
+    <br/>
+    <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+  </details>
+</div>
+
+<!-- GITHUB STATS SECTION -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" height="30" align="absmiddle">
+    GitHub Analytics
+  </h2>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliasradouche&theme=radical&border=7F3FBF&background=0D1117" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iliasradouche&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<!-- ACTIVITY GRAPH -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iliasradouche&theme=tokyo-night&hide_border=true" />
+</a>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=footer" width="100%" alt="Footer"/>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=iliasradouche&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  </p>
+  
+  <p>✨ <b>Thanks for visiting! Let's build something amazing together!</b> ✨</p>
 </div>
