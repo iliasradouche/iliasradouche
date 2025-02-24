@@ -21,7 +21,7 @@
   </h2>
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td width="55%">
       <ul>
