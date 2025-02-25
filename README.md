@@ -85,14 +85,6 @@
   </details>
 </div>
 
-<!-- GITHUB STATS SECTION -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" height="30" align="absmiddle">
-    GitHub Analytics
-  </h2>
-</div>
-
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=footer" width="100%" alt="Footer"/>
