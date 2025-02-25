@@ -87,11 +87,12 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontAlignY=35&animation=fadeIn" width="100%" alt="Footer"/>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=iliasradouche&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
   </p>
   
-  <p>✨ <b>Thanks for visiting! Let's build something amazing together!</b> ✨</p>
+  <p>✨ <b>Let's build something amazing together!</b> ✨</p>
 </div>
+
