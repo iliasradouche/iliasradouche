@@ -93,21 +93,6 @@
   </h2>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliasradouche&theme=radical&border=7F3FBF&background=0D1117" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iliasradouche&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iliasradouche&theme=tokyo-night&hide_border=true" />
-</a>
-
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=footer" width="100%" alt="Footer"/>
