@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=180&section=header&text=Ilias%20RADOUCHE&fontSize=42&fontAlignY=36&animation=fadeIn&desc=Crafting%20Digital%20Experiences&descAlignY=55" width="100%" alt="Profile Header"/>
 
-  <a href="https://iliasradouche.netlify.app/" target="_blank">
+  <a href="https://iliasradouche.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/ilias-radouche" target="_blank">
