@@ -1,98 +1,88 @@
-<!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=180&section=header&text=Ilias%20RADOUCHE&fontSize=42&fontAlignY=36&animation=fadeIn&desc=Crafting%20Digital%20Experiences&descAlignY=55" width="100%" alt="Profile Header"/>
 
-  <a href="https://iliasradouche.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/ilias-radouche" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:iliasradouche2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:222222&height=160&section=header&text=Ilias%20Radouche&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%94%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6&descSize=16&descAlignY=64&descColor=aaaaaa" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&lines=Web+%7C+Mobile+%7C+Cloud+%7C+CI%2FCD;Next.js+%C2%B7+Flutter+%C2%B7+Node.js+%C2%B7+Supabase;Building+clean+products%2C+end+to+end.)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://iliasradouche.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/ilias-radouche" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:iliasradouche2@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=iliasradouche&style=flat-square&color=000000&labelColor=111111&label=visitors"/>
+
 </div>
 
-<!-- ABOUT ME ANIMATED SECTION -->
+---
+
+## &nbsp;`$ whoami`
+
+```ts
+const ilias: FullStackDeveloper = {
+  name     : "Ilias Radouche",
+  location : "Morocco 🇲🇦",
+  focus    : ["Web Apps", "Mobile Apps", "Cloud Infrastructure"],
+  building : "Scalable e-commerce platform 🛒",
+  believes : "Great software is invisible — it just works.",
+  openTo   : "Freelance · Full-time · Collaboration 🤝",
+};
+```
+
+---
+
+## &nbsp;`$ ls ./stack`
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+**Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-000?style=flat-square&logo=dart&logoColor=0175C2)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=6DA55F)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB)
+
+**Data & CMS**
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Sanity](https://img.shields.io/badge/Sanity.io-000?style=flat-square&logo=sanity&logoColor=F03E2F)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-000?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions&logoColor=white)
+
+**Tools**
+![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+## &nbsp;`$ cat ./open-to-work.md`
+
+> 💼 **Available for new opportunities**
+>
+> I'm open to **freelance projects**, **full-time roles**, and **technical collaborations** — especially in product-focused teams building real things with modern stacks.
+>
+> → Reach me at [iliasradouche2@gmail.com](mailto:iliasradouche2@gmail.com) or [LinkedIn](https://linkedin.com/in/ilias-radouche)
+
+---
+
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="absmiddle">
-    About Me
-  </h2>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:111111&height=120&section=footer&text=Let%27s%20build%20something%20great.&fontSize=20&fontColor=ffffff&fontAlignY=48&animation=fadeIn" width="100%"/>
+
 </div>
-
-<table align="center">
-  <tr>
-    <td width="55%">
-      <ul>
-        <li>🌟 Full Stack Developer from Morocco</li>
-        <li>🚀 Currently building an E-Commerce solution</li>
-        <li>💡 Passionate about clean code & intuitive UX</li>
-        <li>🌐 MERN stack & Next.js specialist</li>
-        <li>☁️ Cloud technologies enthusiast (AWS & GCP)</li>
-      </ul>
-      <div align="center">
-        <p><i>💬 "Building tomorrow's digital solutions today"</i></p>
-      </div>
-    </td>
-    <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasradouche&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<!-- TECH STACK SECTION -->
-<div align="center">
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" align="absmiddle"> 
-    Tech Stack
-  </h2>
-</div>
-
-<div align="center">
-  <!-- FRONTEND -->
-  <details open>
-    <summary><b>Frontend</b></summary>
-    <br/>
-    <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-  </details>
-
-  <!-- BACKEND -->
-  <details open>
-    <summary><b>Backend</b></summary>
-    <br/>
-    <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  </details>
-
-  <!-- CLOUD & TOOLS -->
-  <details open>
-    <summary><b>Cloud & Tools</b></summary>
-    <br/>
-    <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-  </details>
-</div>
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontAlignY=35&animation=fadeIn" width="100%" alt="Footer"/>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=iliasradouche&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-  </p>
-  
-  <p>✨ <b>Let's build something amazing together!</b> ✨</p>
-</div>
-
